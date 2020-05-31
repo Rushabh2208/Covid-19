@@ -10,15 +10,20 @@ Run Project Locally: expo start or yarn dev
 
 ## Screenshots
 
-### Menu Screen
+### 1. Menu Screen
+
 
 ![](screenshots/menu.jpg)
 
-### Search Screen
+
+### 2. Search Screen
+
 
 ![](screenshots/search.jpg)
 
-### Detail Screen
+
+### 3. Detail Screen
+
 
 ![](screenshots/detail.jpg)
 
